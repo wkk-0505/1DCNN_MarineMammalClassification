@@ -1,5 +1,5 @@
 # Introduction
-Welcome to the GitHub repository pertaining to our journal: _A 1D CNN approach for classification of marine species vocalizations with variable signal durations_.
+Welcome to the GitHub repository pertaining to our journal: _A Methodological Study of 1D CNN Classification of Marine Mammal Vocalizations with Variable Signal Durations_.
 
 Our research utilizes one-dimensional convolutional neural network (1D CNN) to classify the various marine mammal species using their raw acoustic signals.
 
@@ -25,8 +25,8 @@ Refer to the Jupyter Notebook for the exact modules used.
 If you use Google Colab, Google Colab already has built-in various Python modules, so no installation is necessary.
 
 # Contact Information
-* Name: Min Jun Kim
-* Email: k101m208@snu.ac.kr
+* Name: Won-Ki Kim
+* Email: konekee@chungbuk.ac.kr
 
 # Acknowledgements
 The raw recordings used in this study are freely available from the Watkins Marine Mammal Sound Database (https://cis.whoi.edu/science/B/whalesounds/), which provide labeled marine mammal acoustic recordings along with associated metadata.
